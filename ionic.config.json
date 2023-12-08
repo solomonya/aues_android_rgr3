@@ -1,0 +1,7 @@
+{
+  "name": "aues_lab9",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
